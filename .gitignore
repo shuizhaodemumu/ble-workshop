@@ -1,0 +1,12 @@
+build/
+core/target/
+__pycache__/
+*.pyc
+*.apk
+*.idsig
+*.p12
+*.jks
+*.keystore
+.env
+android-tools/
+android-signing/
